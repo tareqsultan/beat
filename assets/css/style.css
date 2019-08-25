@@ -1,9 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu+Condensed);
 @import url(http://fonts.googleapis.com/css?family=Ubuntu);
 
-///html {
- /// background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAMCAIAAADONVt5AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAFZJREFUeNp0jsERgDAIBCFhtBq/FmH/1SjkAsSfwmM/t3MHH+dFRGOoE4Cz0ecEGJE0cZreheUN0WWPs8teWMw9LFguamHZ27KlZdVifrzy1ftjTQEGANlnIbKDjehfAAAAAElFTkSuQmCC);
-///}
+
 
 body {
   font-family: 'Ubuntu', sans-serif;
